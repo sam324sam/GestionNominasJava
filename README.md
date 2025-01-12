@@ -89,7 +89,3 @@ Se genera un archivo `Empleados.html` con el siguiente formato:
 - Si no se puede abrir el archivo, se mostrará un mensaje de error y el programa finalizará sin generar el archivo HTML.
 - El programa solo filtra y genera tablas basadas en el límite proporcionado por el usuario.
 
-## Créditos
-- **Autor:** Desarrollado como parte de un examen de evaluación en el primer año de DAW.
-- **Curso:** Desarrollo de Aplicaciones Web, Primer Año.
-
