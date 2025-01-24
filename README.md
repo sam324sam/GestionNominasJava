@@ -1,3 +1,5 @@
+![Estado](https://img.shields.io/badge/Estado-Acabado-brightgreen?style=plastic)
+
 # Aplicación para la Gestión de Datos de Empleados
 
 ## Descripción
